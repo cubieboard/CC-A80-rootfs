@@ -1,6 +1,6 @@
 Source Readme 
 =============
- Cubietech have opened the linux sdk to community for cubieboard4,you can 
+Cubietech have opened the linux sdk to community for cubieboard4,you can 
 get the kernel source,u-boot,and rootfs, you can compile the sdk to pack 
 a firmware for a tf card booting ,or pack a tf card firmware to flash cb4 
 emmc. Now,We have release debian and ubuntu distrabution,this is just a 
@@ -25,7 +25,7 @@ cubieboards community.
     You should download the rootfs from dl.cubieboard.org,and move your need file to "rootfs" 
 
 
-##compilation:
+##compilation
 
      $ cd CC-A80-linux-sdk
      $ source tools/scripts/envsetup.sh
@@ -61,5 +61,6 @@ Build sdcard image:
 		cmd for example: cb_install_flash_card sdb
 ---------------------------------------------------------------------------------------------
 
-##CC-A80-linux-sdk-guide:
-http://dl.cubieboard.org/model/cc-a80/Doc/Linux-distribution/lubuntu/CC-A80-linux-sdk-guide.pdf
+##CC-A80-linux-sdk-guide
+
+     http://dl.cubieboard.org/model/cc-a80/Doc/Linux-distribution/lubuntu/CC-A80-linux-sdk-guide.pdf
