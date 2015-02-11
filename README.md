@@ -63,4 +63,4 @@ Build sdcard image:
 
 ##CC-A80-linux-sdk-guide
 
-     http://dl.cubieboard.org/model/cc-a80/Doc/Linux-distribution/lubuntu/CC-A80-linux-sdk-guide.pdf
+  http://dl.cubieboard.org/model/cc-a80/Doc/Linux-distribution/lubuntu/CC-A80-linux-sdk-guide.pdf
