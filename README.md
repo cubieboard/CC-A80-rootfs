@@ -45,6 +45,7 @@ please select a system:0
 
 --------------------------------------------------------------------------------------------
 Build sdcard image:
+
 	1. tf card boot
 	(1)cb_build_card_image (compile code to prepare cb_install_tfcard)
 	(2)cb_part_install_tfcard dev_label
